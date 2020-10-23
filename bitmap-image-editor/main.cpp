@@ -6,6 +6,7 @@ int main() {
 
 	Image img;
 	img.read("in.bmp");
+	img.crop(20, 20, 20, 20);
 	img.write("out.bmp");
 	img.clear();
 

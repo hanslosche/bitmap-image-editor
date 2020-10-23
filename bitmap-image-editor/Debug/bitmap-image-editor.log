@@ -1,2 +1,6 @@
 ﻿  main.cpp
+C:\Users\Hans\Desktop\CVED\development\c++\projects\bitmap-image-editor\bitmap-image-editor\image.hpp(151,1): warning C4244: '*=': conversion from 'float' to 'LONG', possible loss of data
+C:\Users\Hans\Desktop\CVED\development\c++\projects\bitmap-image-editor\bitmap-image-editor\image.hpp(165,1): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Hans\Desktop\CVED\development\c++\projects\bitmap-image-editor\bitmap-image-editor\image.hpp(185,1): warning C4244: '*=': conversion from 'float' to 'LONG', possible loss of data
+C:\Users\Hans\Desktop\CVED\development\c++\projects\bitmap-image-editor\bitmap-image-editor\image.hpp(198,1): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
   bitmap-image-editor.vcxproj -> C:\Users\Hans\Desktop\CVED\development\c++\projects\bitmap-image-editor\Debug\bitmap-image-editor.exe
